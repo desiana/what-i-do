@@ -38,9 +38,6 @@ One documented campaign comparison produced **24% greater reach, 21% more views 
 
 **Boundary:** this is one bounded experiment, not a general business-growth claim.
 
-### [Original B2B growth-system map](artifacts/b2b-growth-system-map.md)
-
-This is an anonymized reconstruction of an early strategy board connecting project signals, account research, content, outreach, learning and expansion into one commercial system.
 
 ## What connects the work
 
